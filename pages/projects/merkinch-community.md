@@ -5,7 +5,8 @@ excerpt: Informal computer drop-in sessions to boost IT skills and reduce social
 lead: Merkinch Community Centre
 website: http://www.merkinchcommunitycentre.co.uk/
 email: 
-twitter-url: facebook-url: https://www.facebook.com/MerkinchCommunityCentre
+twitter-url: 
+facebook-url: https://www.facebook.com/MerkinchCommunityCentre
 start: April 2015
 end: March 2016
 award: £6985
@@ -21,6 +22,7 @@ People who are isolated and not connected to their community will 'drop in' to U
 
 
 ## Project milestones
+1. We have engaged a project co-ordinator and also printed our materials.  We have had several meetings with colleagues who will bring people to UR CIRCLE
 
 
 
